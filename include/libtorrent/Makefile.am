@@ -223,6 +223,7 @@ nobase_include_HEADERS = \
   extensions/smart_ban.hpp          \
   extensions/ut_metadata.hpp        \
   extensions/ut_pex.hpp             \
+  extensions/tr_payments.hpp        \
   \
   kademlia/announce_flags.hpp       \
   kademlia/dht_settings.hpp         \

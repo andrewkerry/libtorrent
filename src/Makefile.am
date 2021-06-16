@@ -148,6 +148,7 @@ libtorrent_rasterbar_la_SOURCES = \
   upnp.cpp                        \
   ut_metadata.cpp                 \
   ut_pex.cpp                      \
+  tr_payments.cpp                 \
   utf8.cpp                        \
   utp_socket_manager.cpp          \
   utp_stream.cpp                  \

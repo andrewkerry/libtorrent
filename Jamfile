@@ -719,6 +719,7 @@ SOURCES =
 # -- extensions --
 	ut_pex
 	ut_metadata
+	tr_payments
 	smart_ban
 	;
 
